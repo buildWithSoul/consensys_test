@@ -33,7 +33,27 @@ Attempt 2- (less than 5 minutes)
 * store callback into state
 * if data exists, display core info
 
-# More steps- add kitty image, randomizer, design, error handling?
+## add kitty image
+
+* Got api
+* Added logic
+* Added UI
+
+## add randomizer
+
+* Added function
+* Added button
+* Added logic
+
+## Add error handling
+
+* added regexp to ensure only numbers are passed in and app doesn't crash
+* shows alert
+
+## Design
+
+* material-ui
+*
 
 ![](https://i.imgur.com/A7D2gMb.png)
 
