@@ -1,3 +1,14 @@
+# Intro
+
+Welcome one, welcome all to the cryptokitty whisperer
+
+The live file can be viewed @ cryptokittywhisperer.herokuapp.com
+
+To reproduce
+npm install
+install metamask chrome extension
+npm start
+
 # How Abhishek Solved the Problem
 
 ## the start
@@ -48,12 +59,13 @@ Attempt 2- (less than 5 minutes)
 ## Add error handling
 
 * added regexp to ensure only numbers are passed in and app doesn't crash
+* added api error handler
 * shows alert
 
 ## Design
 
 * material-ui
-*
+* plug in components
 
 ![](https://i.imgur.com/A7D2gMb.png)
 
